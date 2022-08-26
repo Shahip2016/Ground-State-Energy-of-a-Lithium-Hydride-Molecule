@@ -1,0 +1,2 @@
+# Ground-State-Energy-of-a-Lithium-Hydride-Molecule
+VQE starts with a quantum state prepared by a parametrized quantum circuit, called an ansatz. The algorithm passes the state’s corresponding wavefunction back and forth between a classical and a quantum computer, optimizing it by varying the quantum circuit’s parameters. At the end of the run, it should return a set of parameters used to calculate the ground state of the molecular system. You can use this algorithm’s results to create plots of how a molecule’s ground state energy varies with the distances between its atoms.
